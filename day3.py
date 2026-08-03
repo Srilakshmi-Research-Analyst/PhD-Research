@@ -7,3 +7,5 @@ print(type(name))
 print(type(age))
 print(type(height))
 print(type(Is_PhD))
+
+print("Hello, PhD Research!")
